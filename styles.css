@@ -1,0 +1,18 @@
+h1{
+    text-align:center;
+}
+img{
+ width:300px;   
+}
+.main{
+    display:flex;
+    
+}
+
+.right{
+    display: flex;
+}
+
+.wuPin-toDo{
+    margin: 3px;
+}
